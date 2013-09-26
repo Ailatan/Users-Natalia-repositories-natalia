@@ -1,4 +1,4 @@
-Natalia Gomez Garcia
-Edad: 25
-Ingenieria Informatica
-Soy Natalia, me gusta viajar y escuchar musica.
+<nombre> Natalia Gomez Garcia </nombre>
+<edad> 25 </edad>
+<carrera> Ingenieria Informatica </carrera>
+<ocio> viajar, escuchar musica </ocio>
